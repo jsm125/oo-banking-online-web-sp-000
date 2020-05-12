@@ -25,6 +25,6 @@ class Transfer
       
   end
   status = "complete""
-  end
+  
 
 end
